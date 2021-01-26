@@ -1,0 +1,4 @@
+baseURL = "https://jopvandijk.github.io"
+languageCode = "en-us"
+title = "Jop"
+theme = "dimension"
